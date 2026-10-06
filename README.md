@@ -20,7 +20,7 @@ Before setting up the project, ensure you have the following installed:
 ### 1. Clone the Repository
 Open your terminal and run:
 ```bash
-git clone <YOUR_GITHUB_URL_HERE>
+git clone https://github.com/steiusido/fsl-api.git
 cd <YOUR_PROJECT_FOLDER>
 ```
 
